@@ -12,9 +12,10 @@
 
 ### 5- [Code Journey](https://hackmd.io/g5MAvvtoSqCf3Fenxd7pqQ?view) 11:00 -- 12:00
 
-### 6- [React Native Style] (https://github.com/mFlaifel/react-native-styling) 1:30 - 2:30
+### 6-  [React Native Style](https://github.com/mFlaifel/react-native-styling)     1:30 -- 2:30
 
 ### 7- [React Navigation](https://hackmd.io/suP0LKuSTwKhLNXQfkDTGA) 02:30 -- 03:30 
 
 ### 8- [Async Storage](https://github.com/mFlaifel/Async-Storage-React-Native) 03:30 -- 04:00
 
+     
